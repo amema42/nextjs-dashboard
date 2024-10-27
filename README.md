@@ -7,4 +7,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 Work in Progress: (1) Deployment on Vercel (2) Auth on Vercel (3) aria-label
 
 ---
-by Ani Mema[https://github.com/amema42]
+by [Ani Mema](https://github.com/amema42)
